@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React - live demo update for Gary and Jason
+          ALTERNATIVE BRANCH
         </a>
       </header>
     </div>
